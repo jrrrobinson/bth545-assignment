@@ -19,3 +19,6 @@
 * Quick display of brake pads life
 * Ability to use to record car 360 cameras as a dash cam
 * Full control of Dom lights
+* Reversing out of a parking spot - Nitish Bajaj
+* Heated/Cooling Seats - Nitish Bajaj
+* AC/Heater - Nitish Bajaj
