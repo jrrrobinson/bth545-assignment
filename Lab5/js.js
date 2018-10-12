@@ -57,3 +57,11 @@ $('#btn4').click(function () {
 $('#btn5').click(function () {
     $(this).find('i').toggleClass('fa-bluetooth-b fa-close');
 });
+
+//audio
+function SetVolume(val) {
+    let player = document.getElementById('sliderMp3');
+    console.log('Before: ' + player.volume);
+    player.volume = val / 100;
+    console.log('After: ' + player.volume);
+}

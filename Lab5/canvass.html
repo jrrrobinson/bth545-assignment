@@ -16,7 +16,13 @@
 <button id="btn5" class="btn btn-primary"><i class="fa fa-bluetooth-b"></i></button>
 
 <canvas id="canvasInAPerfectWorld" width="490" height="220"></canvas>
-
+<br>
+<div>
+    <audio id="sliderMp3" autoplay>
+        <source src="http://www.alexkatz.me/codepen/music/interlude.mp3" type="audio/mp3">
+    </audio>
+    <input id="vol-control" type="range" min="0" max="100" step="1" oninput="SetVolume(this.value)" onchange="SetVolume(this.value)"></input>
+</div>
 
 <script type="application/javascript" src="js.js"></script>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
