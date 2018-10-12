@@ -19,7 +19,7 @@
 *
 * Reversing out of a parking spot - Nitish Bajaj
 * Heated/Cooling Seats - Nitish Bajaj
-* AC/Heater - Nitish Bajaj
+* Air Conditioner/Heater - Nitish Bajaj
 * Quick display of VIN number and car information -Wilson Ho
 * Connect to Wifi  -Wilson Ho
 * Display vehicle diagnostics -Wilson Ho
