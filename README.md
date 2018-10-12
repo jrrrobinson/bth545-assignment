@@ -17,17 +17,8 @@
 * Ability to use to record car 360 cameras as a dash cam
 * Full control of Dom lights
 * Reversing out of a parking spot - Nitish Bajaj
-
-*
-* Media
-*
-* Navigation
-*
-* Controls
 * Heated/Cooling Seats - Nitish Bajaj
 * Air Conditioner/Heater - Nitish Bajaj
-*
-* Settings
 * Quick display of VIN number and car information -Wilson Ho
 * Connect to Wifi  -Wilson Ho
 * Display vehicle diagnostics -Wilson Ho
