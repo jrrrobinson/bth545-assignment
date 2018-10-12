@@ -1,6 +1,6 @@
 # bth545-assignment
 
-## Features For Interface
+## Tentative Features For Interface
 * Customize car steering wheel volume button  to control seat warmers or Car temperature
 * Customize car steering button to be used as car gear stick
 * Adjust mirrors to auto or manual fold
@@ -25,6 +25,6 @@
 * Display vehicle diagnostics -Wilson Ho
 * Activate collision avoidance system -Jacob Robinson
 *
-* Connect to radio
-* Connect to phone for music
-* Utilize GPS
+* Connect to radio -Lab
+* Connect to phone for music -Lab
+* Utilize GPS -Lab
