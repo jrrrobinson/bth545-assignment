@@ -1,4 +1,4 @@
-# bth545-assignment
+﻿# bth545-assignment
 
 ## Tentative Features For Interface
 * Customize car steering wheel volume button  to control seat warmers or Car temperature
@@ -24,7 +24,7 @@
 * Connect to Wifi  -Wilson Ho
 * Display vehicle diagnostics -Wilson Ho
 * Activate collision avoidance system -Jacob Robinson
-*
+* View driver driving habits
 * Connect to radio -Lab
 * Connect to phone for music -Lab
 * Utilize GPS -Lab
