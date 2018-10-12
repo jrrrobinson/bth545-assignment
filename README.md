@@ -16,7 +16,6 @@
 * Small icon to show if steering wheel is properly aligned
 * Ability to use to record car 360 cameras as a dash cam
 * Full control of Dom lights
-*
 * Reversing out of a parking spot - Nitish Bajaj
 * Heated/Cooling Seats - Nitish Bajaj
 * Air Conditioner/Heater - Nitish Bajaj
