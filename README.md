@@ -15,13 +15,13 @@
 * Display change’s color if car is going above speed limit
 * Notify drive if any doors is open when car is put in drive mood
 * Small icon to show if steering wheel is properly align
-* Quick display of vin number and car information
-* Quick display of brake pads life
 * Ability to use to record car 360 cameras as a dash cam
 * Full control of Dom lights
-
+//
 * Reversing out of a parking spot - Nitish Bajaj
 * Heated/Cooling Seats - Nitish Bajaj
 * AC/Heater - Nitish Bajaj
-* Connect to  -Wilson Ho
+//
+* Quick display of vin number and car information -Wilson Ho
+* Connect to Wifi  -Wilson Ho
 * Display vehicle diagnostics -Wilson Ho
